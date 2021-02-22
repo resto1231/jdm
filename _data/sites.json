@@ -1,5 +1,11 @@
 [
     {
+    "name": "Mailfence",
+    "url": "https://mailfence.com",
+    "difficulty": "easy",
+    "notes_en": "Go to your Mailfence account settings -> Account -> Delete my account. More info can be found here: https://kb.mailfence.com/kb/how-can-i-delete-my-account/
+},
+    {
     "name": "Google",
     "meta": "popular",
     "url": "https://takeout.google.com/",
